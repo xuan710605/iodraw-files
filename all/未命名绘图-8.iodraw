@@ -140,7 +140,7 @@
             <mxPoint x="760" y="590" as="targetPoint" />
             <Array as="points">
               <mxPoint x="860" y="970" />
-              <mxPoint x="860" y="520" />
+              <mxPoint x="860" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -155,12 +155,12 @@
         <mxCell id="uuf5ugRJtATPKmhO8oBW-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uuf5ugRJtATPKmhO8oBW-41" target="uuf5ugRJtATPKmhO8oBW-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="520" />
+              <mxPoint x="620" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="uuf5ugRJtATPKmhO8oBW-41" value="遍历供应商j从0到m-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
