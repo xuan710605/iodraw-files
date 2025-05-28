@@ -31,7 +31,7 @@
         <mxCell id="uuf5ugRJtATPKmhO8oBW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uuf5ugRJtATPKmhO8oBW-8" target="uuf5ugRJtATPKmhO8oBW-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uuf5ugRJtATPKmhO8oBW-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uuf5ugRJtATPKmhO8oBW-11">
+        <mxCell id="uuf5ugRJtATPKmhO8oBW-14" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uuf5ugRJtATPKmhO8oBW-11">
           <mxGeometry x="-0.5448" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
