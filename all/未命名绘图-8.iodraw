@@ -75,6 +75,9 @@
         <mxCell id="uuf5ugRJtATPKmhO8oBW-10" value="当前总价格小于预算且总重量小于最小重量？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="500" width="110" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="uuf5ugRJtATPKmhO8oBW-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uuf5ugRJtATPKmhO8oBW-12" target="uuf5ugRJtATPKmhO8oBW-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uuf5ugRJtATPKmhO8oBW-12" value="遍历供应商从0到m-1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="490" width="110" height="120" as="geometry" />
         </mxCell>
@@ -86,6 +89,9 @@
         </mxCell>
         <mxCell id="uuf5ugRJtATPKmhO8oBW-18" value="回溯返回" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uuf5ugRJtATPKmhO8oBW-23" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="475" y="510" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
