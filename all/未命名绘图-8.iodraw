@@ -34,8 +34,8 @@
         <mxCell id="uuf5ugRJtATPKmhO8oBW-8" value="当前i==n？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="390" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uuf5ugRJtATPKmhO8oBW-10" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="550" width="80" height="80" as="geometry" />
+        <mxCell id="uuf5ugRJtATPKmhO8oBW-10" value="当前总价格小于预算且总重量小于最小重量？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="520" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
