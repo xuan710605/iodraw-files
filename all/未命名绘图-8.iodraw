@@ -130,8 +130,14 @@
         <mxCell id="uuf5ugRJtATPKmhO8oBW-27" value="剪枝跳过" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="720" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uuf5ugRJtATPKmhO8oBW-33" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uuf5ugRJtATPKmhO8oBW-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uuf5ugRJtATPKmhO8oBW-33" target="uuf5ugRJtATPKmhO8oBW-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uuf5ugRJtATPKmhO8oBW-33" value="记录当前选择的供应商" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uuf5ugRJtATPKmhO8oBW-35" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
