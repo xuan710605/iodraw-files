@@ -77,14 +77,6 @@
         <mxCell id="uuf5ugRJtATPKmhO8oBW-10" value="当前总价格小于预算且总重量小于最小重量？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="500" width="110" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="uuf5ugRJtATPKmhO8oBW-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="uuf5ugRJtATPKmhO8oBW-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="550" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="620" y="550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uuf5ugRJtATPKmhO8oBW-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uuf5ugRJtATPKmhO8oBW-16" target="uuf5ugRJtATPKmhO8oBW-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -147,7 +139,8 @@
             <mxPoint x="760" y="550" as="targetPoint" />
             <Array as="points">
               <mxPoint x="860" y="930" />
-              <mxPoint x="860" y="550" />
+              <mxPoint x="860" y="520" />
+              <mxPoint x="760" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -160,7 +153,7 @@
           <mxGeometry x="740" y="890" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uuf5ugRJtATPKmhO8oBW-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
