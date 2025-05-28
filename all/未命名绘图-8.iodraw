@@ -165,8 +165,14 @@
         <mxCell id="uuf5ugRJtATPKmhO8oBW-41" value="遍历供应商j从0到m-1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uuf5ugRJtATPKmhO8oBW-45" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="1060" width="120" height="60" as="geometry" />
+        <mxCell id="uuf5ugRJtATPKmhO8oBW-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uuf5ugRJtATPKmhO8oBW-45" target="uuf5ugRJtATPKmhO8oBW-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uuf5ugRJtATPKmhO8oBW-45" value="返回上层递归" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uuf5ugRJtATPKmhO8oBW-47" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="740" y="1130" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
