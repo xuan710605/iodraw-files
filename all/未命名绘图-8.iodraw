@@ -97,6 +97,14 @@
         <mxCell id="uuf5ugRJtATPKmhO8oBW-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uuf5ugRJtATPKmhO8oBW-23" target="uuf5ugRJtATPKmhO8oBW-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="uuf5ugRJtATPKmhO8oBW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uuf5ugRJtATPKmhO8oBW-23" target="uuf5ugRJtATPKmhO8oBW-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uuf5ugRJtATPKmhO8oBW-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uuf5ugRJtATPKmhO8oBW-29">
+          <mxGeometry x="-0.4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uuf5ugRJtATPKmhO8oBW-23" value="新总价格大于预算？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="650" width="80" height="80" as="geometry" />
         </mxCell>
@@ -106,7 +114,7 @@
         <mxCell id="uuf5ugRJtATPKmhO8oBW-25" value="新总重量大于最小重量？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="760" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uuf5ugRJtATPKmhO8oBW-27" value="" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uuf5ugRJtATPKmhO8oBW-27" value="剪枝跳过" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="720" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
