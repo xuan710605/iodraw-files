@@ -54,8 +54,14 @@
         <mxCell id="fXv28lAz2wqxwGPJ6Gt2-11" value="调用backtrack(t+1)" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fXv28lAz2wqxwGPJ6Gt2-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fXv28lAz2wqxwGPJ6Gt2-13" target="fXv28lAz2wqxwGPJ6Gt2-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fXv28lAz2wqxwGPJ6Gt2-13" value="恢复r[t]和r[j]" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fXv28lAz2wqxwGPJ6Gt2-15" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="910" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
