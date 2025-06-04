@@ -69,7 +69,17 @@
           <mxGeometry x="380" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fXv28lAz2wqxwGPJ6Gt2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fXv28lAz2wqxwGPJ6Gt2-15" target="fXv28lAz2wqxwGPJ6Gt2-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="950" />
+              <mxPoint x="610" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fXv28lAz2wqxwGPJ6Gt2-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fXv28lAz2wqxwGPJ6Gt2-17">
+          <mxGeometry x="-0.9483" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fXv28lAz2wqxwGPJ6Gt2-15" value="遍历完成？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="910" width="80" height="80" as="geometry" />
